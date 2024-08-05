@@ -36,10 +36,10 @@ section{
 
 .load::after{
     content: "";
-    width: 50px;
-    height: 50px;
-    border: 15px solid rgb(89, 89, 89);
-    border-top-color:rgb(55, 255, 0) ;
+    width: 60px;
+    height: 60px;
+    border: 14px solid rgb(89, 89, 89);
+    border-top-color:rgb(75, 255, 0) ;
     border-left-color:rgb(5, 0, 157) ;
     border-right-color:rgb(216, 216, 216) ;
     border-radius: 50%;
