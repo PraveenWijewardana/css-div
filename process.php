@@ -1,6 +1,6 @@
 <?php
 echo("success  !");
-echo("good"):
+echo("good");
 
 
 
