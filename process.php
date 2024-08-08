@@ -2,7 +2,7 @@
 echo("success   !");
 //normal text
 echo("good");
-echo("hi;);
+echo("hello;);
 //hi text normal
 
 
