@@ -8,12 +8,12 @@ body{
     height: 100px;
     width: 100px;
     background-color: rgb(132, 42, 165);
-    transition: background-color 3s , border-radius 2.0s;
+    transition: background-color 3s , border-radius 2s;
    
     position: relative;
     margin: auto;
     top: 200px;
-    transition: all 2s;
+    transition: all 3s;
     
 }
 
