@@ -7,7 +7,7 @@ body{
     animation-duration: 10s;
     height: 100px;
     width: 100px;
-    background-color: rgb(132, 42, 165);
+    background-color: rgb(132, 43, 165);
     transition: background-color 3s , border-radius 2s;
    
     position: relative;
