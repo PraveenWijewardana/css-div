@@ -1,4 +1,4 @@
-<?php
+yg vbhu<?php
 echo("success   !");
 //normal text
 echo("good");//
